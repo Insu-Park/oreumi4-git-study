@@ -1,0 +1,18 @@
+body {
+    width: 100%;
+    background-color: white;
+}
+
+section {
+    position: relative;
+    max-width: 800px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+#review {
+    margin: 0 auto;
+    width: 100%;
+
+    height: auto;
+}
